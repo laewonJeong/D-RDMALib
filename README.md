@@ -1,6 +1,9 @@
 # D-RDMALib
 
-many-to-many rdma library
+which generalizes the existing programming process of RDMA to reduce the development complexity and can be easily adapted to multi-node environments. 
+
+</br>
+
 ![image](https://github.com/user-attachments/assets/beb2d13b-596f-4990-a547-2ec09c3a3720)
 
 ## Installation
